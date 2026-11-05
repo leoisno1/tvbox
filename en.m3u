@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url="http://172.19.0.2:8080/epg/epg.gz"
+#EXTINF:-1 tvg-id="00s Replay" tvg-name="00s Replay" tvg-logo="https://www.xn--rgv465a.top/tvlogo/00s Replay.png" group-title="🕘️更新时间",2026-11-05 14:24:18
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABN English" tvg-name="3ABN English" tvg-logo="https://i.imgur.com/16DMxP4.png" group-title="🇺🇸美国频道",3ABN English
+https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABN Kids" tvg-name="3ABN Kids" tvg-logo="https://i.imgur.com/z3npqO1.png" group-title="🇺🇸美国频道",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABN Praise Him Music Network" tvg-name="3ABN Praise Him Music Network" tvg-logo="https://i.imgur.com/iBcqT8L.png" group-title="🇺🇸美国频道",3ABN Praise Him Music Network
+https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABN Proclaim! Network" tvg-name="3ABN Proclaim! Network" tvg-logo="https://i.imgur.com/zUMUNhe.png" group-title="🇺🇸美国频道",3ABN Proclaim! Network
+https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABC WWAY" tvg-name="ABC WWAY" tvg-logo="https://i.imgur.com/pvXZ8DX.png" group-title="🇺🇸美国频道",ABC WWAY
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+#EXTINF:-1 tvg-id="AKC TV Meet the Breeds" tvg-name="AKC TV Meet the Breeds" tvg-logo="https://i.imgur.com/66avgdk.png" group-title="🇺🇸美国频道",AKC TV Meet the Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKC TV Puppies" tvg-name="AKC TV Puppies" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="🇺🇸美国频道",AKC TV Puppies
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AXN Crime" tvg-name="AXN Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png" group-title="🇺🇸美国频道",AXN Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://88.212.7.14/live/viasat_film/index.m3u8
+#EXTINF:-1 tvg-id="BATV Educational Channel" tvg-name="BATV Educational Channel" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="🇺🇸美国频道",BATV Educational Channel
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATV Government Channel" tvg-name="BATV Government Channel" tvg-logo="https://i.imgur.com/4MdSstx.png" group-title="🇺🇸美国频道",BATV Government Channel
+https://livestream.telvue.com/billerica3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BATV Public Channel" tvg-name="BATV Public Channel" tvg-logo="https://i.imgur.com/zKQMDsu.png" group-title="🇺🇸美国频道",BATV Public Channel
+https://livestream.telvue.com/billerica1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Best of BATV Channel" tvg-name="Best of BATV Channel" tvg-logo="https://i.imgur.com/TUMiKCX.png" group-title="🇺🇸美国频道",Best of BATV Channel
+https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Binge" tvg-name="Binge" tvg-logo="https://i.imgur.com/kEETRln.png" group-title="🇺🇸美国频道",Binge
+https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🇺🇸美国频道",Cartoon Network
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🇺🇸美国频道",Cartoon Network
+http://212.5.144.156:8080/cartoon/index.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="🇺🇸美国频道",CNN
+http://212.5.144.156:8080/cnn/index.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNN.png" group-title="🇺🇸美国频道",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
+#EXTINF:-1 tvg-id="Create WMPT" tvg-name="Create WMPT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest/smart/width/386/height/259?cb=20240205233457" group-title="🇺🇸美国频道",Create WMPT
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 tvg-id="Dare To Dream Network" tvg-name="Dare To Dream Network" tvg-logo="https://i.imgur.com/oNUpXA9.png" group-title="🇺🇸美国频道",Dare To Dream Network
+https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Detroit Channel 10" tvg-name="Detroit Channel 10" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="🇺🇸美国频道",Detroit Channel 10
+https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
+#EXTINF:-1 tvg-id="Detroit Channel 21" tvg-name="Detroit Channel 21" tvg-logo="https://i.imgur.com/yXXEGKg.png" group-title="🇺🇸美国频道",Detroit Channel 21
+https://reflect-detroit-vod.cablecast.tv/live-9/live/stream-4/live.m3u8
+#EXTINF:-1 tvg-id="Detroit Channel 22" tvg-name="Detroit Channel 22" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="🇺🇸美国频道",Detroit Channel 22
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="Detroit Channel 68" tvg-name="Detroit Channel 68" tvg-logo="https://i.imgur.com/zAdcg9m.png" group-title="🇺🇸美国频道",Detroit Channel 68
+https://reflect-detroit-vod.cablecast.tv/live-10/live/stream-5/live.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="🇺🇸美国频道",Discovery Channel
+http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="🇺🇸美国频道",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="🇺🇸美国频道",Discovery Channel
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="Food Network 美食台" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png" group-title="🇺🇸美国频道",Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/ejPii8T.png" group-title="🇺🇸美国频道",HGTV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="🇺🇸美国频道",History
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="KIIO-LD 10.1" tvg-name="KIIO-LD 10.1" tvg-logo="https://i.imgur.com/wkzwXFO.png" group-title="🇺🇸美国频道",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-id="KMCT-TV 39.1" tvg-name="KMCT-TV 39.1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png" group-title="🇺🇸美国频道",KMCT-TV 39.1
+https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8
+#EXTINF:-1 tvg-id="KPVM-LD 25.1" tvg-name="KPVM-LD 25.1" tvg-logo="https://i.imgur.com/dGoQ88j.png" group-title="🇺🇸美国频道",KPVM-LD 25.1
+https://2-fss-1.streamhoster.com/pl_122/206858-4405346-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KTOO 360TV KTOO-TV" tvg-name="KTOO 360TV KTOO-TV" tvg-logo="https://i.imgur.com/ppn5oJy.png" group-title="🇺🇸美国频道",KTOO 360TV KTOO-TV
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="🇺🇸美国频道",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLIVEHD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" group-title="🇺🇸美国频道",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="Muslim Network TV" tvg-name="Muslim Network TV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Muslim Network TV.png" group-title="🇺🇸美国频道",Muslim Network TV
+https://afghantv.app/hls2/muslimnetwork/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="🇺🇸美国频道",NBA TV
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 tvg-id="NTD TV Canada" tvg-name="NTD TV Canada" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="🇺🇸美国频道",NTD TV Canada
+https://live.ntdtv.com/mllive860/playlist.m3u8
+#EXTINF:-1 tvg-id="OCN TV" tvg-name="OCN TV" tvg-logo="https://i.imgur.com/iSB5Obl.png" group-title="🇺🇸美国频道",OCN TV
+https://5d12bc59c4748.streamlock.net/redirect/ocnbroadcasting.com/ocnbroadcasting2?type=m3u8
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" group-title="🇺🇸美国频道",Paramount Network
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Radio Tele Puissance" tvg-name="Radio Tele Puissance" tvg-logo="https://i.imgur.com/ZLPwJug.png" group-title="🇺🇸美国频道",Radio Tele Puissance
+https://video1.getstreamhosting.com:1936/8560/8560/playlist.m3u8
+#EXTINF:-1 tvg-id="Rakuten Viki Poland" tvg-name="Rakuten Viki Poland" tvg-logo="https://i.imgur.com/pbyd1g2.png" group-title="🇺🇸美国频道",Rakuten Viki Poland
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Real America's Voice KPVM-LD" tvg-name="Real America's Voice KPVM-LD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_Real_America%27s_Voice.svg/960px-Logo_Real_America%27s_Voice.svg.png" group-title="🇺🇸美国频道",Real America's Voice KPVM-LD
+https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Scientology Network KSCN-TV" tvg-name="Scientology Network KSCN-TV" tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="🇺🇸美国频道",Scientology Network KSCN-TV
+https://stream-losangeles.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="Scientology Network WFTT-TV" tvg-name="Scientology Network WFTT-TV" tvg-logo="https://i.imgur.com/HOYF8NA.png" group-title="🇺🇸美国频道",Scientology Network WFTT-TV
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:-1 tvg-id="TBN Pacific" tvg-name="TBN Pacific" tvg-logo="https://i.imgur.com/yWJTxKk.png" group-title="🇺🇸美国频道",TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 tvg-id="The Walk TV" tvg-name="The Walk TV" tvg-logo="https://i.imgur.com/p3RAxjp.png" group-title="🇺🇸美国频道",The Walk TV
+https://wggstv16.ddns.net:9953/hls/walk1.m3u8
+#EXTINF:-1 tvg-id="Video Mix TV" tvg-name="Video Mix TV" tvg-logo="https://i.imgur.com/nyLrIPP.png" group-title="🇺🇸美国频道",Video Mix TV
+https://2-fss-2.streamhoster.com/pl_118/206436-3189488-1/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DK-D 14.1" tvg-name="W14DK-D 14.1" tvg-logo="https://i.imgur.com/TjQP7kS.png" group-title="🇺🇸美国频道",W14DK-D 14.1
+https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8
+#EXTINF:-1 tvg-id="W14DK-D 14.2" tvg-name="W14DK-D 14.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/NewsNetLogo2022.png" group-title="🇺🇸美国频道",W14DK-D 14.2
+https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
+#EXTINF:-1 tvg-id="WGGS-TV 16.1" tvg-name="WGGS-TV 16.1" tvg-logo="https://i.imgur.com/Btw83JA.png" group-title="🇺🇸美国频道",WGGS-TV 16.1
+https://wggstv16.ddns.net:9953/hls/WGGS1.m3u8
+#EXTINF:-1 tvg-id="AMC Europe Czech Republic" tvg-name="AMC Europe Czech Republic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="🇬🇧英国频道",AMC Europe Czech Republic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://88.212.7.14/live/test_amc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC Europe Hungary" tvg-name="AMC Europe Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="🇬🇧英国频道",AMC Europe Hungary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://88.212.7.14/live/amc_hun/index.m3u8
+#EXTINF:-1 tvg-id="BBC First Turkiye" tvg-name="BBC First Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="🇬🇧英国频道",BBC First Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-id="Der TV" tvg-name="Der TV" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Der%20TV.jpeg" group-title="🇬🇧英国频道",Der TV
+https://stream.berosat.live/hls/der-tv/der-tv.m3u8
